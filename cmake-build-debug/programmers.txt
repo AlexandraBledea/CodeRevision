@@ -1,0 +1,3 @@
+Ana 3 10
+Carina 2 30
+Adrian 10 12
