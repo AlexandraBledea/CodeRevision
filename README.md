@@ -3,11 +3,10 @@
 -----
 
 # Used Concepts
-- Layered architecture
+- MVC
 - Qt Creator for GUI
 - Inheritance, polymorphism, encapsulation
 - Observer pattern
-- MVC pattern
 
 ---
 
